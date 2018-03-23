@@ -22,3 +22,8 @@ The **ns2** software tool is being used to implement the concept mentioned in th
 
 ### References:
 A. Laya, C. Kalalas, F. Vazquez-Gallego, L. Alonso and J. Alonso-Zarate, "Goodbye, ALOHA!," in IEEE Access, vol. 4, pp. 2029-2044, 2016. [Click Here](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7457611)
+
+## File Structure
+- Introduction.md - 
+- Design.md - 
+- main.md - Main module of the implementation
