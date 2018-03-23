@@ -18,14 +18,14 @@ From the above statement , it can be concluded that 3 different types of informa
     3. 1 slot for transmission of feedback information by the coordinator .
 
   This the operation of DQ:
-    1. At the beginning of each frame , the devices which have data ready to transmit choose one of the 'm' contention slots to transmit something known as **Access Request Sequence(ARS)**. From the status of the coordinator , the access slots can
+    1. At the beginning of each frame , the devices which have data ready to transmit choose one of the 'm' contention slots to transmit something known as **Access Request Sequence(ARS)** . From the status of the coordinator , the access slots can
       [a] Be empty .
       [b] successful(only one ARS is decoded) or
       [c] Collision(more than one ARS is decoded).
 
     2. The coordinator broadcasts this information in the form of a **FeedBack Packet(FBP)** . Each of the device decodes this packet and executes certain rules of the protocol and decide to enter into one of the 2 queues.
       **a.** Colliding devices enter the **Contention Resolution Queue(CRQ)** . A **tree-splitting algorithm** is used to resolve those contentions.
-      **b.** Succeeding devices enter the **Data Transmission Queue**. In this case , a FIFO Queue allows devices to transmit data in subsequent frames using the data-slot of the DQ Queue.
+      **b.** Succeeding devices enter the **Data Transmission Queue** . In this case , a FIFO Queue allows devices to transmit data in subsequent frames using the data-slot of the DQ Queue.
 
     The queue is represented in each device by 2 integer numbers.
       a. Length of the queue.

@@ -17,7 +17,7 @@ Traditional ALOHA networks cannot handle this type of traffic if more number of 
 The networks of IoT Systems poses different types of challenges such as low latency , high reliability , high availability . The network may change from an idle one to a saturated one because of the behavior of devices in the system.Most of the protocols which are based on ALOHA resolve contentions in the network using waiting backoff periods which reduces the performance of the system drastically.
 
 The proposed solution:
-Protocols based on the **Distributed Queuing**(**DQ**) technology can solve all the MAC level problems posed by IoT systems.
+	Protocols based on the **Distributed Queuing**(**DQ**) technology can solve all the MAC level problems posed by IoT systems.
 DQ has a lot of advantages over ALOHA based protocols. A few of them are
 
 1. It provides near-optimum performance with respect to throughput and delay.
