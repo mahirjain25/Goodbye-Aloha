@@ -28,9 +28,10 @@ set n5 [$ns node]
 # Create duplex links between nodes with bandwidth and distance
 $ns duplex-link $n0 $n4 1Mb 50ms DropTail
 $ns duplex-link $n1 $n4 1Mb 50ms DropTail
-$ns duplex-link $n2 $n4 1Mb 1ms DropTail
-$ns duplex-link $n3 $n4 1Mb 1ms DropTail
-$ns duplex-link $n5 $n4 1Mb 50ms DropTail
+$ns duplex-link $n2 $n5 1Mb 1ms DropTail
+$ns duplex-link $n3 $n5 1Mb 1ms DropTail
+$ns duplex-link $n4 $n5 1Mb 50ms DropTail
+$ns duplex-link $n2 $n3 1Mb 50ms DropTail
 # Create a duplex link between nodes 4 and 5 as queue position
 $ns duplex-link-op $n4 $n5 queuePos 0.5
 #Create a UDP agent and attach it to node n(0)
