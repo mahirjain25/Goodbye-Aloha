@@ -3,10 +3,10 @@ set ns [new Simulator]
 $ns rtproto DV
 $ns macType Mac/Sat/SlottedAloha
 #Open the nam trace file
-set nf [open aloha.nam w]
+set nf [open slotted_aloha.nam w]
 $ns namtrace-all $nf
 #Open the output files
-set f0 [open aloha.tr w]
+set f0 [open slotted_aloha.tr w]
 $ns trace-all $f0
 #Define a finish procedure
 proc finish {} {
