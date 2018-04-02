@@ -34,7 +34,7 @@ From the above statement , it can be concluded that 3 different types of informa
       Length of the queue is updated by the coordinator.
 
   To understand the working of DQ , it is important to understand the working of CRQ and DRQ.
-  
+
 ##### Contention Resolustion Queue(CRQ) :
   **a**. The first stage is the **Contention Resolution** where a tree splitting algorithm is used to resolve the contention in groups.
    **b**. There are 2 parameters a device must calculate dynammically and keep them updated. They are [a]CRQ length , [b]Device position in the CRQ.
@@ -42,7 +42,7 @@ From the above statement , it can be concluded that 3 different types of informa
  **d**. After a device sends an ARS , it gets a feeback in the form of FeedBack Packet(FBP) whether it has got the channel access or not.
 
 ##### Data Transmission Queue(DRQ) :
-      
+
  **a**. When the device gets a success feedback , it means that the contention is resolved. The device now is virtually organised into a Data Transmission Queue.
  **b**. The CRQ and DRQ work in parallel.(not with respect to a single device , but they function in parallel)
  **c**. A device must successfully exit CRQ to enter DTQ.
