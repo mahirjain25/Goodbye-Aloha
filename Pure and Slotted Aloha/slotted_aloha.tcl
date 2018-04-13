@@ -15,7 +15,7 @@ $ns flush-trace
 #Close the trace file
 close $f0
 close $nf 
-exec nam aloha.nam &
+exec nam slotted_aloha.nam &
 exit 0 
 }
 # Create six nodes
