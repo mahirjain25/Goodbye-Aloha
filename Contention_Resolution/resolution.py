@@ -8,7 +8,8 @@ def resolve_func(contention_list, resolved_list, n) :
         resolved_list.append(contention_list);
         print("resolved_list = ", resolved_list)
         return;
-
+    elif(n == 0) :
+        return
     else :
         left = random.randint(1 , n);     #Starting from 1 because atleast let there be 1 leaf as the left branch.
         right = n - left;
