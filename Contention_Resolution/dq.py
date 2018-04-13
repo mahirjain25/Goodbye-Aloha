@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import random
 
 print("enter the number of clients in the star ")
@@ -28,5 +30,3 @@ for i in range(no_slots):
 		fifo[i] = rand_list
 
 	print("fifo: ", fifo, "contention:", contention)
-
-

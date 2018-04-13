@@ -1,0 +1,19 @@
+1. For the  device that is sending a data frame , 
+
+a. Device identifier(MAC address)
+b. Position of device in CRQ and DTQ
+	1. Length of the queue
+	2. position
+c. Data
+d. 
+
+
+Slots:
+
+1. m contention slots.
+2. 1 data slot.
+3. 1 ARS.
+
+
+
+
