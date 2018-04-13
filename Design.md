@@ -2,7 +2,7 @@
 
 **DQ Mechanism**
 
-1. DQ works in start topology networks with one coordinator and a number of devices. It has a dynamic and reconfigurable master-slave architecture.As the name suggests , the way DQ works is fully distributed in the sense that the coordinator of the network does not decide who , when and how the devices transmit. The only job of the coordinator is to broadcase minimum amount of awareness information into the network such that the devices can make autonomous and well-informed decision of when to transmit the data(or use the channel).
+1. DQ works in **star topology** networks with one coordinator and a number of devices. It has a dynamic and reconfigurable master-slave architecture.As the name suggests , the way DQ works is fully distributed in the sense that the coordinator of the network does not decide who , when and how the devices transmit. The only job of the coordinator is to broadcase minimum amount of awareness information into the network such that the devices can make autonomous and well-informed decision of when to transmit the data(or use the channel).
 
 From the above statement , it can be concluded that 3 different types of information flow in the link:
   1. The normal collision-free data.

@@ -4,8 +4,12 @@
 set ns [new Simulator]
 
 #Open the nam trace file
-set nf [open out.nam w]
+set nf [open star.nam w]
 $ns namtrace-all $nf
+
+#Open output files
+set f0 [open star.tr w]
+$ns trace-all $f0
 
 #Define a 'finish' procedure
 proc finish {} {
@@ -14,8 +18,8 @@ proc finish {} {
     #Close the trace file
     close $nf
     #Executenam on the trace file
-    exec nam out.nam &
-    exit0
+    exec nam star.nam &
+    exit 0
 }
 
 
@@ -58,11 +62,11 @@ $cbr0 attach-agent $tcp0
 
 #Schedule events for the CBR agents
 $ns at 0.5 "$cbr0 start"
-$ns at 4.5 "$cbr0 stop"
+$ns at 2.5 "$cbr0 stop"
 
 
 #Call the finish procedure after 5 seconds of simulation time
-$ns at 5.0 "finish"
+$ns at 3.0 "finish"
 
 #Run the simulation
 $ns run
