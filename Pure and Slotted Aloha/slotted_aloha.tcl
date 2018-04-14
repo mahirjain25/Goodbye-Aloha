@@ -40,7 +40,7 @@ $ns attach-agent $n0 $udp0
 # Create a CBR traffic source and attach it to udp0
 set cbr0 [new Application/Traffic/CBR]
 $cbr0 set packetSize_ 500
-$cbr0 set interval_ 0.005
+$cbr0 set interval_ 0.5
 $cbr0 attach-agent $udp0
 #Create a Null agent (a traffic sink) and attach it to node n(3)
 set null0 [new Agent/Null]
