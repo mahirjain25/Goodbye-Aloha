@@ -14,7 +14,7 @@ BEGIN {
 	packet_size = $6;
 	packet_type = $5;
 
-	if(packet_type=="cbr") {		#Main check.
+	if(packet_type=="exp") {		#Main check.
 		if(event=="r") {					#Block only for received packets.
 			received++;
 			total_recvd_packet_size += packet_size;
@@ -38,5 +38,7 @@ END {
 	printf("Packets received = %d\n" , received);
 	printf("Packets dropped = %d\n" , dropped);
 	printf("Packet Drop Rate[PDR] = %f\n\n" , 100 * ((float)(dropped) / (received + dropped)));
+	printf("Start time = %f, Stop time = %f\n" , start_time, stop_time);
+
 	printf("Throughput = %f kbps\n" , ((float)(total_recvd_packet_size) / (stop_time - start_time)) * 0.008);
 }
