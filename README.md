@@ -39,11 +39,9 @@ A. Laya, C. Kalalas, F. Vazquez-Gallego, L. Alonso and J. Alonso-Zarate, "Goodby
 - Contention Resolution Implementation - A folder with all files pertaining to the new algorithm being implemented.
 	1. dq.py - Python script that implements Distributed Queuing.
 	2. resolution.py - A file that generates collisions, and prints resolved lists.
-	3. 
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
+	3. tree_split.py - A python script that performs tree splitting algorithm
+	4. tree_splitting.tcl - TCL script depicting tree splitting algorithm
+	5. highdrop_aloha.nam - Animation for higher drop ALOHA file
+	6. highdrop_aloha.tr - Tracefile for higher drop ALOHA file
+	7. analyze_any_aloha.awk - An awk script to calculate network metrics from the .nam file.
 	
