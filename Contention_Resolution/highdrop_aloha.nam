@@ -1,0 +1,778 @@
+V -t * -v 1.0a5 -a 0
+A -t * -n 1 -p 0 -o 0x7fffffff -c 30 -a 1
+A -t * -h 1 -m 1073741823 -s 0
+n -t * -a 35 -s 35 -S UP -v circle -c black -i black
+n -t * -a 36 -s 36 -S UP -v circle -c black -i black
+n -t * -a 37 -s 37 -S UP -v circle -c black -i black
+n -t * -a 38 -s 38 -S UP -v circle -c black -i black
+n -t * -a 39 -s 39 -S UP -v circle -c black -i black
+n -t * -a 40 -s 40 -S UP -v circle -c black -i black
+n -t * -a 41 -s 41 -S UP -v circle -c black -i black
+n -t * -a 42 -s 42 -S UP -v circle -c black -i black
+n -t * -a 43 -s 43 -S UP -v circle -c black -i black
+n -t * -a 44 -s 44 -S UP -v circle -c black -i black
+n -t * -a 45 -s 45 -S UP -v circle -c black -i black
+n -t * -a 46 -s 46 -S UP -v circle -c black -i black
+n -t * -a 47 -s 47 -S UP -v circle -c black -i black
+n -t * -a 48 -s 48 -S UP -v circle -c black -i black
+n -t * -a 50 -s 50 -S UP -v circle -c black -i black
+n -t * -a 49 -s 49 -S UP -v circle -c black -i black
+n -t * -a 51 -s 51 -S UP -v circle -c black -i black
+n -t * -a 52 -s 52 -S UP -v circle -c black -i black
+n -t * -a 53 -s 53 -S UP -v circle -c black -i black
+n -t * -a 54 -s 54 -S UP -v circle -c black -i black
+n -t * -a 55 -s 55 -S UP -v circle -c black -i black
+n -t * -a 56 -s 56 -S UP -v circle -c black -i black
+n -t * -a 57 -s 57 -S UP -v circle -c black -i black
+n -t * -a 58 -s 58 -S UP -v circle -c black -i black
+n -t * -a 60 -s 60 -S UP -v circle -c black -i black
+n -t * -a 59 -s 59 -S UP -v circle -c black -i black
+n -t * -a 61 -s 61 -S UP -v circle -c black -i black
+n -t * -a 62 -s 62 -S UP -v circle -c black -i black
+n -t * -a 63 -s 63 -S UP -v circle -c black -i black
+n -t * -a 64 -s 64 -S UP -v circle -c black -i black
+n -t * -a 65 -s 65 -S UP -v circle -c black -i black
+n -t * -a 66 -s 66 -S UP -v circle -c black -i black
+n -t * -a 67 -s 67 -S UP -v circle -c black -i black
+n -t * -a 68 -s 68 -S UP -v circle -c black -i black
+n -t * -a 70 -s 70 -S UP -v circle -c black -i black
+n -t * -a 69 -s 69 -S UP -v circle -c black -i black
+n -t * -a 71 -s 71 -S UP -v circle -c black -i black
+n -t * -a 100 -s 100 -S UP -v circle -c black -i black
+n -t * -a 72 -s 72 -S UP -v circle -c black -i black
+n -t * -a 73 -s 73 -S UP -v circle -c black -i black
+n -t * -a 74 -s 74 -S UP -v circle -c black -i black
+n -t * -a 75 -s 75 -S UP -v circle -c black -i black
+n -t * -a 76 -s 76 -S UP -v circle -c black -i black
+n -t * -a 77 -s 77 -S UP -v circle -c black -i black
+n -t * -a 78 -s 78 -S UP -v circle -c black -i black
+n -t * -a 80 -s 80 -S UP -v circle -c black -i black
+n -t * -a 79 -s 79 -S UP -v circle -c black -i black
+n -t * -a 81 -s 81 -S UP -v circle -c black -i black
+n -t * -a 10 -s 10 -S UP -v circle -c black -i black
+n -t * -a 82 -s 82 -S UP -v circle -c black -i black
+n -t * -a 11 -s 11 -S UP -v circle -c black -i black
+n -t * -a 83 -s 83 -S UP -v circle -c black -i black
+n -t * -a 12 -s 12 -S UP -v circle -c black -i black
+n -t * -a 84 -s 84 -S UP -v circle -c black -i black
+n -t * -a 13 -s 13 -S UP -v circle -c black -i black
+n -t * -a 85 -s 85 -S UP -v circle -c black -i black
+n -t * -a 14 -s 14 -S UP -v circle -c black -i black
+n -t * -a 86 -s 86 -S UP -v circle -c black -i black
+n -t * -a 15 -s 15 -S UP -v circle -c black -i black
+n -t * -a 87 -s 87 -S UP -v circle -c black -i black
+n -t * -a 16 -s 16 -S UP -v circle -c black -i black
+n -t * -a 88 -s 88 -S UP -v circle -c black -i black
+n -t * -a 0 -s 0 -S UP -v circle -c black -i black
+n -t * -a 17 -s 17 -S UP -v circle -c black -i black
+n -t * -a 90 -s 90 -S UP -v circle -c black -i black
+n -t * -a 89 -s 89 -S UP -v circle -c black -i black
+n -t * -a 1 -s 1 -S UP -v circle -c black -i black
+n -t * -a 18 -s 18 -S UP -v circle -c black -i black
+n -t * -a 91 -s 91 -S UP -v circle -c black -i black
+n -t * -a 2 -s 2 -S UP -v circle -c black -i black
+n -t * -a 19 -s 19 -S UP -v circle -c black -i black
+n -t * -a 20 -s 20 -S UP -v circle -c black -i black
+n -t * -a 92 -s 92 -S UP -v circle -c black -i black
+n -t * -a 3 -s 3 -S UP -v circle -c black -i black
+n -t * -a 21 -s 21 -S UP -v circle -c black -i black
+n -t * -a 93 -s 93 -S UP -v circle -c black -i black
+n -t * -a 4 -s 4 -S UP -v circle -c black -i black
+n -t * -a 22 -s 22 -S UP -v circle -c black -i black
+n -t * -a 94 -s 94 -S UP -v circle -c black -i black
+n -t * -a 5 -s 5 -S UP -v circle -c black -i black
+n -t * -a 23 -s 23 -S UP -v circle -c black -i black
+n -t * -a 95 -s 95 -S UP -v circle -c black -i black
+n -t * -a 6 -s 6 -S UP -v circle -c black -i black
+n -t * -a 24 -s 24 -S UP -v circle -c black -i black
+n -t * -a 96 -s 96 -S UP -v circle -c black -i black
+n -t * -a 7 -s 7 -S UP -v circle -c black -i black
+n -t * -a 25 -s 25 -S UP -v circle -c black -i black
+n -t * -a 97 -s 97 -S UP -v circle -c black -i black
+n -t * -a 8 -s 8 -S UP -v circle -c black -i black
+n -t * -a 26 -s 26 -S UP -v circle -c black -i black
+n -t * -a 98 -s 98 -S UP -v circle -c black -i black
+n -t * -a 9 -s 9 -S UP -v circle -c black -i black
+n -t * -a 27 -s 27 -S UP -v circle -c black -i black
+n -t * -a 99 -s 99 -S UP -v circle -c black -i black
+n -t * -a 28 -s 28 -S UP -v circle -c black -i black
+n -t * -a 29 -s 29 -S UP -v circle -c black -i black
+n -t * -a 30 -s 30 -S UP -v circle -c black -i black
+n -t * -a 31 -s 31 -S UP -v circle -c black -i black
+n -t * -a 32 -s 32 -S UP -v circle -c black -i black
+n -t * -a 33 -s 33 -S UP -v circle -c black -i black
+n -t * -a 34 -s 34 -S UP -v circle -c black -i black
+l -t * -s 1 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 2 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 3 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 4 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 5 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 6 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 7 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 8 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 9 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 10 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 11 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 12 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 13 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 14 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 15 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 16 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 17 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 18 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 19 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 20 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 21 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 22 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 23 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 24 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 25 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 26 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 27 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 28 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 29 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 30 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 31 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 32 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 33 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 34 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 35 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 36 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 37 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 38 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 39 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 40 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 41 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 42 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 43 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 44 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 45 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 46 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 47 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 48 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 49 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 50 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 51 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 52 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 53 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 54 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 55 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 56 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 57 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 58 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 59 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 60 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 61 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 62 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 63 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 64 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 65 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 66 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 67 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 68 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 69 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 70 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 71 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 72 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 73 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 74 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 75 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 76 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 77 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 78 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 79 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 80 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 81 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 82 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 83 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 84 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 85 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 86 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 87 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 88 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 89 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 90 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 91 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 92 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 93 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 94 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 95 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 96 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 97 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 98 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 99 -d 0 -S UP -r 10000000 -D 0.001 -c black
+l -t * -s 100 -d 0 -S UP -r 10000000 -D 0.001 -c black
++ -t 8.72693490643377e-05 -s 90 -d 0 -p rtProtoDV -e 101 -c 0 -i 0 -a 0 -x {90.2 0.3 -1 ------- null}
+- -t 8.72693490643377e-05 -s 90 -d 0 -p rtProtoDV -e 101 -c 0 -i 0 -a 0 -x {90.2 0.3 -1 ------- null}
+h -t 8.72693490643377e-05 -s 90 -d 0 -p rtProtoDV -e 101 -c 0 -i 0 -a 0 -x {90.2 0.3 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 1 -p rtProtoDV -e 101 -c 0 -i 1 -a 0 -x {0.3 1.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 1 -p rtProtoDV -e 101 -c 0 -i 1 -a 0 -x {0.3 1.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 1 -p rtProtoDV -e 101 -c 0 -i 1 -a 0 -x {0.3 1.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 2 -p rtProtoDV -e 101 -c 0 -i 2 -a 0 -x {0.3 2.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 2 -p rtProtoDV -e 101 -c 0 -i 2 -a 0 -x {0.3 2.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 2 -p rtProtoDV -e 101 -c 0 -i 2 -a 0 -x {0.3 2.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 3 -p rtProtoDV -e 101 -c 0 -i 3 -a 0 -x {0.3 3.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 3 -p rtProtoDV -e 101 -c 0 -i 3 -a 0 -x {0.3 3.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 3 -p rtProtoDV -e 101 -c 0 -i 3 -a 0 -x {0.3 3.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 4 -p rtProtoDV -e 101 -c 0 -i 4 -a 0 -x {0.3 4.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 4 -p rtProtoDV -e 101 -c 0 -i 4 -a 0 -x {0.3 4.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 4 -p rtProtoDV -e 101 -c 0 -i 4 -a 0 -x {0.3 4.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 5 -p rtProtoDV -e 101 -c 0 -i 5 -a 0 -x {0.3 5.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 5 -p rtProtoDV -e 101 -c 0 -i 5 -a 0 -x {0.3 5.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 5 -p rtProtoDV -e 101 -c 0 -i 5 -a 0 -x {0.3 5.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 6 -p rtProtoDV -e 101 -c 0 -i 6 -a 0 -x {0.3 6.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 6 -p rtProtoDV -e 101 -c 0 -i 6 -a 0 -x {0.3 6.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 6 -p rtProtoDV -e 101 -c 0 -i 6 -a 0 -x {0.3 6.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 7 -p rtProtoDV -e 101 -c 0 -i 7 -a 0 -x {0.3 7.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 7 -p rtProtoDV -e 101 -c 0 -i 7 -a 0 -x {0.3 7.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 7 -p rtProtoDV -e 101 -c 0 -i 7 -a 0 -x {0.3 7.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 8 -p rtProtoDV -e 101 -c 0 -i 8 -a 0 -x {0.3 8.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 8 -p rtProtoDV -e 101 -c 0 -i 8 -a 0 -x {0.3 8.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 8 -p rtProtoDV -e 101 -c 0 -i 8 -a 0 -x {0.3 8.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 9 -p rtProtoDV -e 101 -c 0 -i 9 -a 0 -x {0.3 9.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 9 -p rtProtoDV -e 101 -c 0 -i 9 -a 0 -x {0.3 9.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 9 -p rtProtoDV -e 101 -c 0 -i 9 -a 0 -x {0.3 9.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 10 -p rtProtoDV -e 101 -c 0 -i 10 -a 0 -x {0.3 10.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 10 -p rtProtoDV -e 101 -c 0 -i 10 -a 0 -x {0.3 10.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 10 -p rtProtoDV -e 101 -c 0 -i 10 -a 0 -x {0.3 10.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 11 -p rtProtoDV -e 101 -c 0 -i 11 -a 0 -x {0.3 11.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 11 -p rtProtoDV -e 101 -c 0 -i 11 -a 0 -x {0.3 11.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 11 -p rtProtoDV -e 101 -c 0 -i 11 -a 0 -x {0.3 11.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 12 -p rtProtoDV -e 101 -c 0 -i 12 -a 0 -x {0.3 12.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 12 -p rtProtoDV -e 101 -c 0 -i 12 -a 0 -x {0.3 12.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 12 -p rtProtoDV -e 101 -c 0 -i 12 -a 0 -x {0.3 12.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 13 -p rtProtoDV -e 101 -c 0 -i 13 -a 0 -x {0.3 13.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 13 -p rtProtoDV -e 101 -c 0 -i 13 -a 0 -x {0.3 13.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 13 -p rtProtoDV -e 101 -c 0 -i 13 -a 0 -x {0.3 13.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 14 -p rtProtoDV -e 101 -c 0 -i 14 -a 0 -x {0.3 14.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 14 -p rtProtoDV -e 101 -c 0 -i 14 -a 0 -x {0.3 14.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 14 -p rtProtoDV -e 101 -c 0 -i 14 -a 0 -x {0.3 14.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 15 -p rtProtoDV -e 101 -c 0 -i 15 -a 0 -x {0.3 15.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 15 -p rtProtoDV -e 101 -c 0 -i 15 -a 0 -x {0.3 15.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 15 -p rtProtoDV -e 101 -c 0 -i 15 -a 0 -x {0.3 15.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 16 -p rtProtoDV -e 101 -c 0 -i 16 -a 0 -x {0.3 16.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 16 -p rtProtoDV -e 101 -c 0 -i 16 -a 0 -x {0.3 16.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 16 -p rtProtoDV -e 101 -c 0 -i 16 -a 0 -x {0.3 16.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 17 -p rtProtoDV -e 101 -c 0 -i 17 -a 0 -x {0.3 17.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 17 -p rtProtoDV -e 101 -c 0 -i 17 -a 0 -x {0.3 17.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 17 -p rtProtoDV -e 101 -c 0 -i 17 -a 0 -x {0.3 17.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 18 -p rtProtoDV -e 101 -c 0 -i 18 -a 0 -x {0.3 18.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 18 -p rtProtoDV -e 101 -c 0 -i 18 -a 0 -x {0.3 18.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 18 -p rtProtoDV -e 101 -c 0 -i 18 -a 0 -x {0.3 18.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 19 -p rtProtoDV -e 101 -c 0 -i 19 -a 0 -x {0.3 19.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 19 -p rtProtoDV -e 101 -c 0 -i 19 -a 0 -x {0.3 19.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 19 -p rtProtoDV -e 101 -c 0 -i 19 -a 0 -x {0.3 19.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 20 -p rtProtoDV -e 101 -c 0 -i 20 -a 0 -x {0.3 20.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 20 -p rtProtoDV -e 101 -c 0 -i 20 -a 0 -x {0.3 20.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 20 -p rtProtoDV -e 101 -c 0 -i 20 -a 0 -x {0.3 20.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 21 -p rtProtoDV -e 101 -c 0 -i 21 -a 0 -x {0.3 21.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 21 -p rtProtoDV -e 101 -c 0 -i 21 -a 0 -x {0.3 21.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 21 -p rtProtoDV -e 101 -c 0 -i 21 -a 0 -x {0.3 21.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 22 -p rtProtoDV -e 101 -c 0 -i 22 -a 0 -x {0.3 22.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 22 -p rtProtoDV -e 101 -c 0 -i 22 -a 0 -x {0.3 22.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 22 -p rtProtoDV -e 101 -c 0 -i 22 -a 0 -x {0.3 22.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 23 -p rtProtoDV -e 101 -c 0 -i 23 -a 0 -x {0.3 23.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 23 -p rtProtoDV -e 101 -c 0 -i 23 -a 0 -x {0.3 23.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 23 -p rtProtoDV -e 101 -c 0 -i 23 -a 0 -x {0.3 23.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 24 -p rtProtoDV -e 101 -c 0 -i 24 -a 0 -x {0.3 24.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 24 -p rtProtoDV -e 101 -c 0 -i 24 -a 0 -x {0.3 24.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 24 -p rtProtoDV -e 101 -c 0 -i 24 -a 0 -x {0.3 24.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 25 -p rtProtoDV -e 101 -c 0 -i 25 -a 0 -x {0.3 25.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 25 -p rtProtoDV -e 101 -c 0 -i 25 -a 0 -x {0.3 25.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 25 -p rtProtoDV -e 101 -c 0 -i 25 -a 0 -x {0.3 25.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 26 -p rtProtoDV -e 101 -c 0 -i 26 -a 0 -x {0.3 26.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 26 -p rtProtoDV -e 101 -c 0 -i 26 -a 0 -x {0.3 26.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 26 -p rtProtoDV -e 101 -c 0 -i 26 -a 0 -x {0.3 26.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 27 -p rtProtoDV -e 101 -c 0 -i 27 -a 0 -x {0.3 27.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 27 -p rtProtoDV -e 101 -c 0 -i 27 -a 0 -x {0.3 27.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 27 -p rtProtoDV -e 101 -c 0 -i 27 -a 0 -x {0.3 27.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 28 -p rtProtoDV -e 101 -c 0 -i 28 -a 0 -x {0.3 28.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 28 -p rtProtoDV -e 101 -c 0 -i 28 -a 0 -x {0.3 28.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 28 -p rtProtoDV -e 101 -c 0 -i 28 -a 0 -x {0.3 28.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 29 -p rtProtoDV -e 101 -c 0 -i 29 -a 0 -x {0.3 29.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 29 -p rtProtoDV -e 101 -c 0 -i 29 -a 0 -x {0.3 29.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 29 -p rtProtoDV -e 101 -c 0 -i 29 -a 0 -x {0.3 29.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 30 -p rtProtoDV -e 101 -c 0 -i 30 -a 0 -x {0.3 30.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 30 -p rtProtoDV -e 101 -c 0 -i 30 -a 0 -x {0.3 30.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 30 -p rtProtoDV -e 101 -c 0 -i 30 -a 0 -x {0.3 30.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 31 -p rtProtoDV -e 101 -c 0 -i 31 -a 0 -x {0.3 31.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 31 -p rtProtoDV -e 101 -c 0 -i 31 -a 0 -x {0.3 31.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 31 -p rtProtoDV -e 101 -c 0 -i 31 -a 0 -x {0.3 31.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 32 -p rtProtoDV -e 101 -c 0 -i 32 -a 0 -x {0.3 32.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 32 -p rtProtoDV -e 101 -c 0 -i 32 -a 0 -x {0.3 32.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 32 -p rtProtoDV -e 101 -c 0 -i 32 -a 0 -x {0.3 32.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 33 -p rtProtoDV -e 101 -c 0 -i 33 -a 0 -x {0.3 33.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 33 -p rtProtoDV -e 101 -c 0 -i 33 -a 0 -x {0.3 33.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 33 -p rtProtoDV -e 101 -c 0 -i 33 -a 0 -x {0.3 33.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 34 -p rtProtoDV -e 101 -c 0 -i 34 -a 0 -x {0.3 34.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 34 -p rtProtoDV -e 101 -c 0 -i 34 -a 0 -x {0.3 34.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 34 -p rtProtoDV -e 101 -c 0 -i 34 -a 0 -x {0.3 34.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 35 -p rtProtoDV -e 101 -c 0 -i 35 -a 0 -x {0.3 35.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 35 -p rtProtoDV -e 101 -c 0 -i 35 -a 0 -x {0.3 35.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 35 -p rtProtoDV -e 101 -c 0 -i 35 -a 0 -x {0.3 35.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 36 -p rtProtoDV -e 101 -c 0 -i 36 -a 0 -x {0.3 36.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 36 -p rtProtoDV -e 101 -c 0 -i 36 -a 0 -x {0.3 36.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 36 -p rtProtoDV -e 101 -c 0 -i 36 -a 0 -x {0.3 36.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 37 -p rtProtoDV -e 101 -c 0 -i 37 -a 0 -x {0.3 37.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 37 -p rtProtoDV -e 101 -c 0 -i 37 -a 0 -x {0.3 37.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 37 -p rtProtoDV -e 101 -c 0 -i 37 -a 0 -x {0.3 37.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 38 -p rtProtoDV -e 101 -c 0 -i 38 -a 0 -x {0.3 38.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 38 -p rtProtoDV -e 101 -c 0 -i 38 -a 0 -x {0.3 38.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 38 -p rtProtoDV -e 101 -c 0 -i 38 -a 0 -x {0.3 38.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 39 -p rtProtoDV -e 101 -c 0 -i 39 -a 0 -x {0.3 39.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 39 -p rtProtoDV -e 101 -c 0 -i 39 -a 0 -x {0.3 39.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 39 -p rtProtoDV -e 101 -c 0 -i 39 -a 0 -x {0.3 39.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 40 -p rtProtoDV -e 101 -c 0 -i 40 -a 0 -x {0.3 40.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 40 -p rtProtoDV -e 101 -c 0 -i 40 -a 0 -x {0.3 40.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 40 -p rtProtoDV -e 101 -c 0 -i 40 -a 0 -x {0.3 40.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 41 -p rtProtoDV -e 101 -c 0 -i 41 -a 0 -x {0.3 41.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 41 -p rtProtoDV -e 101 -c 0 -i 41 -a 0 -x {0.3 41.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 41 -p rtProtoDV -e 101 -c 0 -i 41 -a 0 -x {0.3 41.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 42 -p rtProtoDV -e 101 -c 0 -i 42 -a 0 -x {0.3 42.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 42 -p rtProtoDV -e 101 -c 0 -i 42 -a 0 -x {0.3 42.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 42 -p rtProtoDV -e 101 -c 0 -i 42 -a 0 -x {0.3 42.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 43 -p rtProtoDV -e 101 -c 0 -i 43 -a 0 -x {0.3 43.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 43 -p rtProtoDV -e 101 -c 0 -i 43 -a 0 -x {0.3 43.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 43 -p rtProtoDV -e 101 -c 0 -i 43 -a 0 -x {0.3 43.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 44 -p rtProtoDV -e 101 -c 0 -i 44 -a 0 -x {0.3 44.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 44 -p rtProtoDV -e 101 -c 0 -i 44 -a 0 -x {0.3 44.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 44 -p rtProtoDV -e 101 -c 0 -i 44 -a 0 -x {0.3 44.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 45 -p rtProtoDV -e 101 -c 0 -i 45 -a 0 -x {0.3 45.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 45 -p rtProtoDV -e 101 -c 0 -i 45 -a 0 -x {0.3 45.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 45 -p rtProtoDV -e 101 -c 0 -i 45 -a 0 -x {0.3 45.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 46 -p rtProtoDV -e 101 -c 0 -i 46 -a 0 -x {0.3 46.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 46 -p rtProtoDV -e 101 -c 0 -i 46 -a 0 -x {0.3 46.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 46 -p rtProtoDV -e 101 -c 0 -i 46 -a 0 -x {0.3 46.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 47 -p rtProtoDV -e 101 -c 0 -i 47 -a 0 -x {0.3 47.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 47 -p rtProtoDV -e 101 -c 0 -i 47 -a 0 -x {0.3 47.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 47 -p rtProtoDV -e 101 -c 0 -i 47 -a 0 -x {0.3 47.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 48 -p rtProtoDV -e 101 -c 0 -i 48 -a 0 -x {0.3 48.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 48 -p rtProtoDV -e 101 -c 0 -i 48 -a 0 -x {0.3 48.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 48 -p rtProtoDV -e 101 -c 0 -i 48 -a 0 -x {0.3 48.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 49 -p rtProtoDV -e 101 -c 0 -i 49 -a 0 -x {0.3 49.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 49 -p rtProtoDV -e 101 -c 0 -i 49 -a 0 -x {0.3 49.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 49 -p rtProtoDV -e 101 -c 0 -i 49 -a 0 -x {0.3 49.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 50 -p rtProtoDV -e 101 -c 0 -i 50 -a 0 -x {0.3 50.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 50 -p rtProtoDV -e 101 -c 0 -i 50 -a 0 -x {0.3 50.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 50 -p rtProtoDV -e 101 -c 0 -i 50 -a 0 -x {0.3 50.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 51 -p rtProtoDV -e 101 -c 0 -i 51 -a 0 -x {0.3 51.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 51 -p rtProtoDV -e 101 -c 0 -i 51 -a 0 -x {0.3 51.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 51 -p rtProtoDV -e 101 -c 0 -i 51 -a 0 -x {0.3 51.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 52 -p rtProtoDV -e 101 -c 0 -i 52 -a 0 -x {0.3 52.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 52 -p rtProtoDV -e 101 -c 0 -i 52 -a 0 -x {0.3 52.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 52 -p rtProtoDV -e 101 -c 0 -i 52 -a 0 -x {0.3 52.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 53 -p rtProtoDV -e 101 -c 0 -i 53 -a 0 -x {0.3 53.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 53 -p rtProtoDV -e 101 -c 0 -i 53 -a 0 -x {0.3 53.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 53 -p rtProtoDV -e 101 -c 0 -i 53 -a 0 -x {0.3 53.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 54 -p rtProtoDV -e 101 -c 0 -i 54 -a 0 -x {0.3 54.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 54 -p rtProtoDV -e 101 -c 0 -i 54 -a 0 -x {0.3 54.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 54 -p rtProtoDV -e 101 -c 0 -i 54 -a 0 -x {0.3 54.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 55 -p rtProtoDV -e 101 -c 0 -i 55 -a 0 -x {0.3 55.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 55 -p rtProtoDV -e 101 -c 0 -i 55 -a 0 -x {0.3 55.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 55 -p rtProtoDV -e 101 -c 0 -i 55 -a 0 -x {0.3 55.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 56 -p rtProtoDV -e 101 -c 0 -i 56 -a 0 -x {0.3 56.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 56 -p rtProtoDV -e 101 -c 0 -i 56 -a 0 -x {0.3 56.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 56 -p rtProtoDV -e 101 -c 0 -i 56 -a 0 -x {0.3 56.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 57 -p rtProtoDV -e 101 -c 0 -i 57 -a 0 -x {0.3 57.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 57 -p rtProtoDV -e 101 -c 0 -i 57 -a 0 -x {0.3 57.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 57 -p rtProtoDV -e 101 -c 0 -i 57 -a 0 -x {0.3 57.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 58 -p rtProtoDV -e 101 -c 0 -i 58 -a 0 -x {0.3 58.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 58 -p rtProtoDV -e 101 -c 0 -i 58 -a 0 -x {0.3 58.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 58 -p rtProtoDV -e 101 -c 0 -i 58 -a 0 -x {0.3 58.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 59 -p rtProtoDV -e 101 -c 0 -i 59 -a 0 -x {0.3 59.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 59 -p rtProtoDV -e 101 -c 0 -i 59 -a 0 -x {0.3 59.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 59 -p rtProtoDV -e 101 -c 0 -i 59 -a 0 -x {0.3 59.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 60 -p rtProtoDV -e 101 -c 0 -i 60 -a 0 -x {0.3 60.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 60 -p rtProtoDV -e 101 -c 0 -i 60 -a 0 -x {0.3 60.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 60 -p rtProtoDV -e 101 -c 0 -i 60 -a 0 -x {0.3 60.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 61 -p rtProtoDV -e 101 -c 0 -i 61 -a 0 -x {0.3 61.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 61 -p rtProtoDV -e 101 -c 0 -i 61 -a 0 -x {0.3 61.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 61 -p rtProtoDV -e 101 -c 0 -i 61 -a 0 -x {0.3 61.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 62 -p rtProtoDV -e 101 -c 0 -i 62 -a 0 -x {0.3 62.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 62 -p rtProtoDV -e 101 -c 0 -i 62 -a 0 -x {0.3 62.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 62 -p rtProtoDV -e 101 -c 0 -i 62 -a 0 -x {0.3 62.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 63 -p rtProtoDV -e 101 -c 0 -i 63 -a 0 -x {0.3 63.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 63 -p rtProtoDV -e 101 -c 0 -i 63 -a 0 -x {0.3 63.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 63 -p rtProtoDV -e 101 -c 0 -i 63 -a 0 -x {0.3 63.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 64 -p rtProtoDV -e 101 -c 0 -i 64 -a 0 -x {0.3 64.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 64 -p rtProtoDV -e 101 -c 0 -i 64 -a 0 -x {0.3 64.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 64 -p rtProtoDV -e 101 -c 0 -i 64 -a 0 -x {0.3 64.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 65 -p rtProtoDV -e 101 -c 0 -i 65 -a 0 -x {0.3 65.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 65 -p rtProtoDV -e 101 -c 0 -i 65 -a 0 -x {0.3 65.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 65 -p rtProtoDV -e 101 -c 0 -i 65 -a 0 -x {0.3 65.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 66 -p rtProtoDV -e 101 -c 0 -i 66 -a 0 -x {0.3 66.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 66 -p rtProtoDV -e 101 -c 0 -i 66 -a 0 -x {0.3 66.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 66 -p rtProtoDV -e 101 -c 0 -i 66 -a 0 -x {0.3 66.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 67 -p rtProtoDV -e 101 -c 0 -i 67 -a 0 -x {0.3 67.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 67 -p rtProtoDV -e 101 -c 0 -i 67 -a 0 -x {0.3 67.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 67 -p rtProtoDV -e 101 -c 0 -i 67 -a 0 -x {0.3 67.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 68 -p rtProtoDV -e 101 -c 0 -i 68 -a 0 -x {0.3 68.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 68 -p rtProtoDV -e 101 -c 0 -i 68 -a 0 -x {0.3 68.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 68 -p rtProtoDV -e 101 -c 0 -i 68 -a 0 -x {0.3 68.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 69 -p rtProtoDV -e 101 -c 0 -i 69 -a 0 -x {0.3 69.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 69 -p rtProtoDV -e 101 -c 0 -i 69 -a 0 -x {0.3 69.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 69 -p rtProtoDV -e 101 -c 0 -i 69 -a 0 -x {0.3 69.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 70 -p rtProtoDV -e 101 -c 0 -i 70 -a 0 -x {0.3 70.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 70 -p rtProtoDV -e 101 -c 0 -i 70 -a 0 -x {0.3 70.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 70 -p rtProtoDV -e 101 -c 0 -i 70 -a 0 -x {0.3 70.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 71 -p rtProtoDV -e 101 -c 0 -i 71 -a 0 -x {0.3 71.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 71 -p rtProtoDV -e 101 -c 0 -i 71 -a 0 -x {0.3 71.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 71 -p rtProtoDV -e 101 -c 0 -i 71 -a 0 -x {0.3 71.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 72 -p rtProtoDV -e 101 -c 0 -i 72 -a 0 -x {0.3 72.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 72 -p rtProtoDV -e 101 -c 0 -i 72 -a 0 -x {0.3 72.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 72 -p rtProtoDV -e 101 -c 0 -i 72 -a 0 -x {0.3 72.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 73 -p rtProtoDV -e 101 -c 0 -i 73 -a 0 -x {0.3 73.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 73 -p rtProtoDV -e 101 -c 0 -i 73 -a 0 -x {0.3 73.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 73 -p rtProtoDV -e 101 -c 0 -i 73 -a 0 -x {0.3 73.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 74 -p rtProtoDV -e 101 -c 0 -i 74 -a 0 -x {0.3 74.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 74 -p rtProtoDV -e 101 -c 0 -i 74 -a 0 -x {0.3 74.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 74 -p rtProtoDV -e 101 -c 0 -i 74 -a 0 -x {0.3 74.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 75 -p rtProtoDV -e 101 -c 0 -i 75 -a 0 -x {0.3 75.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 75 -p rtProtoDV -e 101 -c 0 -i 75 -a 0 -x {0.3 75.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 75 -p rtProtoDV -e 101 -c 0 -i 75 -a 0 -x {0.3 75.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 76 -p rtProtoDV -e 101 -c 0 -i 76 -a 0 -x {0.3 76.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 76 -p rtProtoDV -e 101 -c 0 -i 76 -a 0 -x {0.3 76.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 76 -p rtProtoDV -e 101 -c 0 -i 76 -a 0 -x {0.3 76.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 77 -p rtProtoDV -e 101 -c 0 -i 77 -a 0 -x {0.3 77.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 77 -p rtProtoDV -e 101 -c 0 -i 77 -a 0 -x {0.3 77.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 77 -p rtProtoDV -e 101 -c 0 -i 77 -a 0 -x {0.3 77.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 78 -p rtProtoDV -e 101 -c 0 -i 78 -a 0 -x {0.3 78.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 78 -p rtProtoDV -e 101 -c 0 -i 78 -a 0 -x {0.3 78.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 78 -p rtProtoDV -e 101 -c 0 -i 78 -a 0 -x {0.3 78.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 79 -p rtProtoDV -e 101 -c 0 -i 79 -a 0 -x {0.3 79.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 79 -p rtProtoDV -e 101 -c 0 -i 79 -a 0 -x {0.3 79.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 79 -p rtProtoDV -e 101 -c 0 -i 79 -a 0 -x {0.3 79.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 80 -p rtProtoDV -e 101 -c 0 -i 80 -a 0 -x {0.3 80.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 80 -p rtProtoDV -e 101 -c 0 -i 80 -a 0 -x {0.3 80.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 80 -p rtProtoDV -e 101 -c 0 -i 80 -a 0 -x {0.3 80.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 81 -p rtProtoDV -e 101 -c 0 -i 81 -a 0 -x {0.3 81.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 81 -p rtProtoDV -e 101 -c 0 -i 81 -a 0 -x {0.3 81.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 81 -p rtProtoDV -e 101 -c 0 -i 81 -a 0 -x {0.3 81.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 82 -p rtProtoDV -e 101 -c 0 -i 82 -a 0 -x {0.3 82.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 82 -p rtProtoDV -e 101 -c 0 -i 82 -a 0 -x {0.3 82.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 82 -p rtProtoDV -e 101 -c 0 -i 82 -a 0 -x {0.3 82.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 83 -p rtProtoDV -e 101 -c 0 -i 83 -a 0 -x {0.3 83.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 83 -p rtProtoDV -e 101 -c 0 -i 83 -a 0 -x {0.3 83.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 83 -p rtProtoDV -e 101 -c 0 -i 83 -a 0 -x {0.3 83.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 84 -p rtProtoDV -e 101 -c 0 -i 84 -a 0 -x {0.3 84.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 84 -p rtProtoDV -e 101 -c 0 -i 84 -a 0 -x {0.3 84.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 84 -p rtProtoDV -e 101 -c 0 -i 84 -a 0 -x {0.3 84.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 85 -p rtProtoDV -e 101 -c 0 -i 85 -a 0 -x {0.3 85.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 85 -p rtProtoDV -e 101 -c 0 -i 85 -a 0 -x {0.3 85.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 85 -p rtProtoDV -e 101 -c 0 -i 85 -a 0 -x {0.3 85.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 86 -p rtProtoDV -e 101 -c 0 -i 86 -a 0 -x {0.3 86.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 86 -p rtProtoDV -e 101 -c 0 -i 86 -a 0 -x {0.3 86.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 86 -p rtProtoDV -e 101 -c 0 -i 86 -a 0 -x {0.3 86.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 87 -p rtProtoDV -e 101 -c 0 -i 87 -a 0 -x {0.3 87.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 87 -p rtProtoDV -e 101 -c 0 -i 87 -a 0 -x {0.3 87.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 87 -p rtProtoDV -e 101 -c 0 -i 87 -a 0 -x {0.3 87.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 88 -p rtProtoDV -e 101 -c 0 -i 88 -a 0 -x {0.3 88.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 88 -p rtProtoDV -e 101 -c 0 -i 88 -a 0 -x {0.3 88.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 88 -p rtProtoDV -e 101 -c 0 -i 88 -a 0 -x {0.3 88.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 89 -p rtProtoDV -e 101 -c 0 -i 89 -a 0 -x {0.3 89.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 89 -p rtProtoDV -e 101 -c 0 -i 89 -a 0 -x {0.3 89.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 89 -p rtProtoDV -e 101 -c 0 -i 89 -a 0 -x {0.3 89.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 90 -p rtProtoDV -e 101 -c 0 -i 90 -a 0 -x {0.3 90.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 90 -p rtProtoDV -e 101 -c 0 -i 90 -a 0 -x {0.3 90.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 90 -p rtProtoDV -e 101 -c 0 -i 90 -a 0 -x {0.3 90.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 91 -p rtProtoDV -e 101 -c 0 -i 91 -a 0 -x {0.3 91.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 91 -p rtProtoDV -e 101 -c 0 -i 91 -a 0 -x {0.3 91.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 91 -p rtProtoDV -e 101 -c 0 -i 91 -a 0 -x {0.3 91.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 92 -p rtProtoDV -e 101 -c 0 -i 92 -a 0 -x {0.3 92.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 92 -p rtProtoDV -e 101 -c 0 -i 92 -a 0 -x {0.3 92.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 92 -p rtProtoDV -e 101 -c 0 -i 92 -a 0 -x {0.3 92.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 93 -p rtProtoDV -e 101 -c 0 -i 93 -a 0 -x {0.3 93.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 93 -p rtProtoDV -e 101 -c 0 -i 93 -a 0 -x {0.3 93.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 93 -p rtProtoDV -e 101 -c 0 -i 93 -a 0 -x {0.3 93.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 94 -p rtProtoDV -e 101 -c 0 -i 94 -a 0 -x {0.3 94.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 94 -p rtProtoDV -e 101 -c 0 -i 94 -a 0 -x {0.3 94.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 94 -p rtProtoDV -e 101 -c 0 -i 94 -a 0 -x {0.3 94.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 95 -p rtProtoDV -e 101 -c 0 -i 95 -a 0 -x {0.3 95.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 95 -p rtProtoDV -e 101 -c 0 -i 95 -a 0 -x {0.3 95.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 95 -p rtProtoDV -e 101 -c 0 -i 95 -a 0 -x {0.3 95.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 96 -p rtProtoDV -e 101 -c 0 -i 96 -a 0 -x {0.3 96.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 96 -p rtProtoDV -e 101 -c 0 -i 96 -a 0 -x {0.3 96.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 96 -p rtProtoDV -e 101 -c 0 -i 96 -a 0 -x {0.3 96.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 97 -p rtProtoDV -e 101 -c 0 -i 97 -a 0 -x {0.3 97.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 97 -p rtProtoDV -e 101 -c 0 -i 97 -a 0 -x {0.3 97.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 97 -p rtProtoDV -e 101 -c 0 -i 97 -a 0 -x {0.3 97.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 98 -p rtProtoDV -e 101 -c 0 -i 98 -a 0 -x {0.3 98.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 98 -p rtProtoDV -e 101 -c 0 -i 98 -a 0 -x {0.3 98.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 98 -p rtProtoDV -e 101 -c 0 -i 98 -a 0 -x {0.3 98.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 99 -p rtProtoDV -e 101 -c 0 -i 99 -a 0 -x {0.3 99.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 99 -p rtProtoDV -e 101 -c 0 -i 99 -a 0 -x {0.3 99.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 99 -p rtProtoDV -e 101 -c 0 -i 99 -a 0 -x {0.3 99.2 -1 ------- null}
++ -t 0.000169788487334637 -s 0 -d 100 -p rtProtoDV -e 101 -c 0 -i 100 -a 0 -x {0.3 100.2 -1 ------- null}
+- -t 0.000169788487334637 -s 0 -d 100 -p rtProtoDV -e 101 -c 0 -i 100 -a 0 -x {0.3 100.2 -1 ------- null}
+h -t 0.000169788487334637 -s 0 -d 100 -p rtProtoDV -e 101 -c 0 -i 100 -a 0 -x {0.3 100.2 -1 ------- null}
+r -t 0.00116806934906434 -s 90 -d 0 -p rtProtoDV -e 101 -c 0 -i 0 -a 0 -x {90.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 1 -p rtProtoDV -e 101 -c 0 -i 1 -a 0 -x {0.3 1.2 -1 ------- null}
++ -t 0.00125058848733464 -s 1 -d 0 -p rtProtoDV -e 101 -c 0 -i 101 -a 0 -x {1.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 1 -d 0 -p rtProtoDV -e 101 -c 0 -i 101 -a 0 -x {1.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 1 -d 0 -p rtProtoDV -e 101 -c 0 -i 101 -a 0 -x {1.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 2 -p rtProtoDV -e 101 -c 0 -i 2 -a 0 -x {0.3 2.2 -1 ------- null}
++ -t 0.00125058848733464 -s 2 -d 0 -p rtProtoDV -e 101 -c 0 -i 102 -a 0 -x {2.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 2 -d 0 -p rtProtoDV -e 101 -c 0 -i 102 -a 0 -x {2.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 2 -d 0 -p rtProtoDV -e 101 -c 0 -i 102 -a 0 -x {2.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 3 -p rtProtoDV -e 101 -c 0 -i 3 -a 0 -x {0.3 3.2 -1 ------- null}
++ -t 0.00125058848733464 -s 3 -d 0 -p rtProtoDV -e 101 -c 0 -i 103 -a 0 -x {3.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 3 -d 0 -p rtProtoDV -e 101 -c 0 -i 103 -a 0 -x {3.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 3 -d 0 -p rtProtoDV -e 101 -c 0 -i 103 -a 0 -x {3.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 4 -p rtProtoDV -e 101 -c 0 -i 4 -a 0 -x {0.3 4.2 -1 ------- null}
++ -t 0.00125058848733464 -s 4 -d 0 -p rtProtoDV -e 101 -c 0 -i 104 -a 0 -x {4.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 4 -d 0 -p rtProtoDV -e 101 -c 0 -i 104 -a 0 -x {4.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 4 -d 0 -p rtProtoDV -e 101 -c 0 -i 104 -a 0 -x {4.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 5 -p rtProtoDV -e 101 -c 0 -i 5 -a 0 -x {0.3 5.2 -1 ------- null}
++ -t 0.00125058848733464 -s 5 -d 0 -p rtProtoDV -e 101 -c 0 -i 105 -a 0 -x {5.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 5 -d 0 -p rtProtoDV -e 101 -c 0 -i 105 -a 0 -x {5.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 5 -d 0 -p rtProtoDV -e 101 -c 0 -i 105 -a 0 -x {5.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 6 -p rtProtoDV -e 101 -c 0 -i 6 -a 0 -x {0.3 6.2 -1 ------- null}
++ -t 0.00125058848733464 -s 6 -d 0 -p rtProtoDV -e 101 -c 0 -i 106 -a 0 -x {6.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 6 -d 0 -p rtProtoDV -e 101 -c 0 -i 106 -a 0 -x {6.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 6 -d 0 -p rtProtoDV -e 101 -c 0 -i 106 -a 0 -x {6.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 7 -p rtProtoDV -e 101 -c 0 -i 7 -a 0 -x {0.3 7.2 -1 ------- null}
++ -t 0.00125058848733464 -s 7 -d 0 -p rtProtoDV -e 101 -c 0 -i 107 -a 0 -x {7.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 7 -d 0 -p rtProtoDV -e 101 -c 0 -i 107 -a 0 -x {7.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 7 -d 0 -p rtProtoDV -e 101 -c 0 -i 107 -a 0 -x {7.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 8 -p rtProtoDV -e 101 -c 0 -i 8 -a 0 -x {0.3 8.2 -1 ------- null}
++ -t 0.00125058848733464 -s 8 -d 0 -p rtProtoDV -e 101 -c 0 -i 108 -a 0 -x {8.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 8 -d 0 -p rtProtoDV -e 101 -c 0 -i 108 -a 0 -x {8.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 8 -d 0 -p rtProtoDV -e 101 -c 0 -i 108 -a 0 -x {8.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 9 -p rtProtoDV -e 101 -c 0 -i 9 -a 0 -x {0.3 9.2 -1 ------- null}
++ -t 0.00125058848733464 -s 9 -d 0 -p rtProtoDV -e 101 -c 0 -i 109 -a 0 -x {9.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 9 -d 0 -p rtProtoDV -e 101 -c 0 -i 109 -a 0 -x {9.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 9 -d 0 -p rtProtoDV -e 101 -c 0 -i 109 -a 0 -x {9.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 10 -p rtProtoDV -e 101 -c 0 -i 10 -a 0 -x {0.3 10.2 -1 ------- null}
++ -t 0.00125058848733464 -s 10 -d 0 -p rtProtoDV -e 101 -c 0 -i 110 -a 0 -x {10.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 10 -d 0 -p rtProtoDV -e 101 -c 0 -i 110 -a 0 -x {10.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 10 -d 0 -p rtProtoDV -e 101 -c 0 -i 110 -a 0 -x {10.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 11 -p rtProtoDV -e 101 -c 0 -i 11 -a 0 -x {0.3 11.2 -1 ------- null}
++ -t 0.00125058848733464 -s 11 -d 0 -p rtProtoDV -e 101 -c 0 -i 111 -a 0 -x {11.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 11 -d 0 -p rtProtoDV -e 101 -c 0 -i 111 -a 0 -x {11.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 11 -d 0 -p rtProtoDV -e 101 -c 0 -i 111 -a 0 -x {11.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 12 -p rtProtoDV -e 101 -c 0 -i 12 -a 0 -x {0.3 12.2 -1 ------- null}
++ -t 0.00125058848733464 -s 12 -d 0 -p rtProtoDV -e 101 -c 0 -i 112 -a 0 -x {12.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 12 -d 0 -p rtProtoDV -e 101 -c 0 -i 112 -a 0 -x {12.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 12 -d 0 -p rtProtoDV -e 101 -c 0 -i 112 -a 0 -x {12.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 13 -p rtProtoDV -e 101 -c 0 -i 13 -a 0 -x {0.3 13.2 -1 ------- null}
++ -t 0.00125058848733464 -s 13 -d 0 -p rtProtoDV -e 101 -c 0 -i 113 -a 0 -x {13.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 13 -d 0 -p rtProtoDV -e 101 -c 0 -i 113 -a 0 -x {13.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 13 -d 0 -p rtProtoDV -e 101 -c 0 -i 113 -a 0 -x {13.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 14 -p rtProtoDV -e 101 -c 0 -i 14 -a 0 -x {0.3 14.2 -1 ------- null}
++ -t 0.00125058848733464 -s 14 -d 0 -p rtProtoDV -e 101 -c 0 -i 114 -a 0 -x {14.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 14 -d 0 -p rtProtoDV -e 101 -c 0 -i 114 -a 0 -x {14.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 14 -d 0 -p rtProtoDV -e 101 -c 0 -i 114 -a 0 -x {14.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 15 -p rtProtoDV -e 101 -c 0 -i 15 -a 0 -x {0.3 15.2 -1 ------- null}
++ -t 0.00125058848733464 -s 15 -d 0 -p rtProtoDV -e 101 -c 0 -i 115 -a 0 -x {15.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 15 -d 0 -p rtProtoDV -e 101 -c 0 -i 115 -a 0 -x {15.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 15 -d 0 -p rtProtoDV -e 101 -c 0 -i 115 -a 0 -x {15.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 16 -p rtProtoDV -e 101 -c 0 -i 16 -a 0 -x {0.3 16.2 -1 ------- null}
++ -t 0.00125058848733464 -s 16 -d 0 -p rtProtoDV -e 101 -c 0 -i 116 -a 0 -x {16.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 16 -d 0 -p rtProtoDV -e 101 -c 0 -i 116 -a 0 -x {16.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 16 -d 0 -p rtProtoDV -e 101 -c 0 -i 116 -a 0 -x {16.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 17 -p rtProtoDV -e 101 -c 0 -i 17 -a 0 -x {0.3 17.2 -1 ------- null}
++ -t 0.00125058848733464 -s 17 -d 0 -p rtProtoDV -e 101 -c 0 -i 117 -a 0 -x {17.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 17 -d 0 -p rtProtoDV -e 101 -c 0 -i 117 -a 0 -x {17.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 17 -d 0 -p rtProtoDV -e 101 -c 0 -i 117 -a 0 -x {17.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 18 -p rtProtoDV -e 101 -c 0 -i 18 -a 0 -x {0.3 18.2 -1 ------- null}
++ -t 0.00125058848733464 -s 18 -d 0 -p rtProtoDV -e 101 -c 0 -i 118 -a 0 -x {18.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 18 -d 0 -p rtProtoDV -e 101 -c 0 -i 118 -a 0 -x {18.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 18 -d 0 -p rtProtoDV -e 101 -c 0 -i 118 -a 0 -x {18.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 19 -p rtProtoDV -e 101 -c 0 -i 19 -a 0 -x {0.3 19.2 -1 ------- null}
++ -t 0.00125058848733464 -s 19 -d 0 -p rtProtoDV -e 101 -c 0 -i 119 -a 0 -x {19.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 19 -d 0 -p rtProtoDV -e 101 -c 0 -i 119 -a 0 -x {19.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 19 -d 0 -p rtProtoDV -e 101 -c 0 -i 119 -a 0 -x {19.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 20 -p rtProtoDV -e 101 -c 0 -i 20 -a 0 -x {0.3 20.2 -1 ------- null}
++ -t 0.00125058848733464 -s 20 -d 0 -p rtProtoDV -e 101 -c 0 -i 120 -a 0 -x {20.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 20 -d 0 -p rtProtoDV -e 101 -c 0 -i 120 -a 0 -x {20.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 20 -d 0 -p rtProtoDV -e 101 -c 0 -i 120 -a 0 -x {20.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 21 -p rtProtoDV -e 101 -c 0 -i 21 -a 0 -x {0.3 21.2 -1 ------- null}
++ -t 0.00125058848733464 -s 21 -d 0 -p rtProtoDV -e 101 -c 0 -i 121 -a 0 -x {21.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 21 -d 0 -p rtProtoDV -e 101 -c 0 -i 121 -a 0 -x {21.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 21 -d 0 -p rtProtoDV -e 101 -c 0 -i 121 -a 0 -x {21.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 22 -p rtProtoDV -e 101 -c 0 -i 22 -a 0 -x {0.3 22.2 -1 ------- null}
++ -t 0.00125058848733464 -s 22 -d 0 -p rtProtoDV -e 101 -c 0 -i 122 -a 0 -x {22.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 22 -d 0 -p rtProtoDV -e 101 -c 0 -i 122 -a 0 -x {22.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 22 -d 0 -p rtProtoDV -e 101 -c 0 -i 122 -a 0 -x {22.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 23 -p rtProtoDV -e 101 -c 0 -i 23 -a 0 -x {0.3 23.2 -1 ------- null}
++ -t 0.00125058848733464 -s 23 -d 0 -p rtProtoDV -e 101 -c 0 -i 123 -a 0 -x {23.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 23 -d 0 -p rtProtoDV -e 101 -c 0 -i 123 -a 0 -x {23.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 23 -d 0 -p rtProtoDV -e 101 -c 0 -i 123 -a 0 -x {23.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 24 -p rtProtoDV -e 101 -c 0 -i 24 -a 0 -x {0.3 24.2 -1 ------- null}
++ -t 0.00125058848733464 -s 24 -d 0 -p rtProtoDV -e 101 -c 0 -i 124 -a 0 -x {24.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 24 -d 0 -p rtProtoDV -e 101 -c 0 -i 124 -a 0 -x {24.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 24 -d 0 -p rtProtoDV -e 101 -c 0 -i 124 -a 0 -x {24.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 25 -p rtProtoDV -e 101 -c 0 -i 25 -a 0 -x {0.3 25.2 -1 ------- null}
++ -t 0.00125058848733464 -s 25 -d 0 -p rtProtoDV -e 101 -c 0 -i 125 -a 0 -x {25.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 25 -d 0 -p rtProtoDV -e 101 -c 0 -i 125 -a 0 -x {25.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 25 -d 0 -p rtProtoDV -e 101 -c 0 -i 125 -a 0 -x {25.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 26 -p rtProtoDV -e 101 -c 0 -i 26 -a 0 -x {0.3 26.2 -1 ------- null}
++ -t 0.00125058848733464 -s 26 -d 0 -p rtProtoDV -e 101 -c 0 -i 126 -a 0 -x {26.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 26 -d 0 -p rtProtoDV -e 101 -c 0 -i 126 -a 0 -x {26.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 26 -d 0 -p rtProtoDV -e 101 -c 0 -i 126 -a 0 -x {26.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 27 -p rtProtoDV -e 101 -c 0 -i 27 -a 0 -x {0.3 27.2 -1 ------- null}
++ -t 0.00125058848733464 -s 27 -d 0 -p rtProtoDV -e 101 -c 0 -i 127 -a 0 -x {27.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 27 -d 0 -p rtProtoDV -e 101 -c 0 -i 127 -a 0 -x {27.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 27 -d 0 -p rtProtoDV -e 101 -c 0 -i 127 -a 0 -x {27.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 28 -p rtProtoDV -e 101 -c 0 -i 28 -a 0 -x {0.3 28.2 -1 ------- null}
++ -t 0.00125058848733464 -s 28 -d 0 -p rtProtoDV -e 101 -c 0 -i 128 -a 0 -x {28.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 28 -d 0 -p rtProtoDV -e 101 -c 0 -i 128 -a 0 -x {28.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 28 -d 0 -p rtProtoDV -e 101 -c 0 -i 128 -a 0 -x {28.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 29 -p rtProtoDV -e 101 -c 0 -i 29 -a 0 -x {0.3 29.2 -1 ------- null}
++ -t 0.00125058848733464 -s 29 -d 0 -p rtProtoDV -e 101 -c 0 -i 129 -a 0 -x {29.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 29 -d 0 -p rtProtoDV -e 101 -c 0 -i 129 -a 0 -x {29.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 29 -d 0 -p rtProtoDV -e 101 -c 0 -i 129 -a 0 -x {29.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 30 -p rtProtoDV -e 101 -c 0 -i 30 -a 0 -x {0.3 30.2 -1 ------- null}
++ -t 0.00125058848733464 -s 30 -d 0 -p rtProtoDV -e 101 -c 0 -i 130 -a 0 -x {30.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 30 -d 0 -p rtProtoDV -e 101 -c 0 -i 130 -a 0 -x {30.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 30 -d 0 -p rtProtoDV -e 101 -c 0 -i 130 -a 0 -x {30.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 31 -p rtProtoDV -e 101 -c 0 -i 31 -a 0 -x {0.3 31.2 -1 ------- null}
++ -t 0.00125058848733464 -s 31 -d 0 -p rtProtoDV -e 101 -c 0 -i 131 -a 0 -x {31.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 31 -d 0 -p rtProtoDV -e 101 -c 0 -i 131 -a 0 -x {31.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 31 -d 0 -p rtProtoDV -e 101 -c 0 -i 131 -a 0 -x {31.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 32 -p rtProtoDV -e 101 -c 0 -i 32 -a 0 -x {0.3 32.2 -1 ------- null}
++ -t 0.00125058848733464 -s 32 -d 0 -p rtProtoDV -e 101 -c 0 -i 132 -a 0 -x {32.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 32 -d 0 -p rtProtoDV -e 101 -c 0 -i 132 -a 0 -x {32.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 32 -d 0 -p rtProtoDV -e 101 -c 0 -i 132 -a 0 -x {32.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 33 -p rtProtoDV -e 101 -c 0 -i 33 -a 0 -x {0.3 33.2 -1 ------- null}
++ -t 0.00125058848733464 -s 33 -d 0 -p rtProtoDV -e 101 -c 0 -i 133 -a 0 -x {33.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 33 -d 0 -p rtProtoDV -e 101 -c 0 -i 133 -a 0 -x {33.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 33 -d 0 -p rtProtoDV -e 101 -c 0 -i 133 -a 0 -x {33.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 34 -p rtProtoDV -e 101 -c 0 -i 34 -a 0 -x {0.3 34.2 -1 ------- null}
++ -t 0.00125058848733464 -s 34 -d 0 -p rtProtoDV -e 101 -c 0 -i 134 -a 0 -x {34.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 34 -d 0 -p rtProtoDV -e 101 -c 0 -i 134 -a 0 -x {34.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 34 -d 0 -p rtProtoDV -e 101 -c 0 -i 134 -a 0 -x {34.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 35 -p rtProtoDV -e 101 -c 0 -i 35 -a 0 -x {0.3 35.2 -1 ------- null}
++ -t 0.00125058848733464 -s 35 -d 0 -p rtProtoDV -e 101 -c 0 -i 135 -a 0 -x {35.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 35 -d 0 -p rtProtoDV -e 101 -c 0 -i 135 -a 0 -x {35.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 35 -d 0 -p rtProtoDV -e 101 -c 0 -i 135 -a 0 -x {35.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 36 -p rtProtoDV -e 101 -c 0 -i 36 -a 0 -x {0.3 36.2 -1 ------- null}
++ -t 0.00125058848733464 -s 36 -d 0 -p rtProtoDV -e 101 -c 0 -i 136 -a 0 -x {36.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 36 -d 0 -p rtProtoDV -e 101 -c 0 -i 136 -a 0 -x {36.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 36 -d 0 -p rtProtoDV -e 101 -c 0 -i 136 -a 0 -x {36.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 37 -p rtProtoDV -e 101 -c 0 -i 37 -a 0 -x {0.3 37.2 -1 ------- null}
++ -t 0.00125058848733464 -s 37 -d 0 -p rtProtoDV -e 101 -c 0 -i 137 -a 0 -x {37.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 37 -d 0 -p rtProtoDV -e 101 -c 0 -i 137 -a 0 -x {37.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 37 -d 0 -p rtProtoDV -e 101 -c 0 -i 137 -a 0 -x {37.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 38 -p rtProtoDV -e 101 -c 0 -i 38 -a 0 -x {0.3 38.2 -1 ------- null}
++ -t 0.00125058848733464 -s 38 -d 0 -p rtProtoDV -e 101 -c 0 -i 138 -a 0 -x {38.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 38 -d 0 -p rtProtoDV -e 101 -c 0 -i 138 -a 0 -x {38.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 38 -d 0 -p rtProtoDV -e 101 -c 0 -i 138 -a 0 -x {38.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 39 -p rtProtoDV -e 101 -c 0 -i 39 -a 0 -x {0.3 39.2 -1 ------- null}
++ -t 0.00125058848733464 -s 39 -d 0 -p rtProtoDV -e 101 -c 0 -i 139 -a 0 -x {39.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 39 -d 0 -p rtProtoDV -e 101 -c 0 -i 139 -a 0 -x {39.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 39 -d 0 -p rtProtoDV -e 101 -c 0 -i 139 -a 0 -x {39.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 40 -p rtProtoDV -e 101 -c 0 -i 40 -a 0 -x {0.3 40.2 -1 ------- null}
++ -t 0.00125058848733464 -s 40 -d 0 -p rtProtoDV -e 101 -c 0 -i 140 -a 0 -x {40.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 40 -d 0 -p rtProtoDV -e 101 -c 0 -i 140 -a 0 -x {40.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 40 -d 0 -p rtProtoDV -e 101 -c 0 -i 140 -a 0 -x {40.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 41 -p rtProtoDV -e 101 -c 0 -i 41 -a 0 -x {0.3 41.2 -1 ------- null}
++ -t 0.00125058848733464 -s 41 -d 0 -p rtProtoDV -e 101 -c 0 -i 141 -a 0 -x {41.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 41 -d 0 -p rtProtoDV -e 101 -c 0 -i 141 -a 0 -x {41.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 41 -d 0 -p rtProtoDV -e 101 -c 0 -i 141 -a 0 -x {41.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 42 -p rtProtoDV -e 101 -c 0 -i 42 -a 0 -x {0.3 42.2 -1 ------- null}
++ -t 0.00125058848733464 -s 42 -d 0 -p rtProtoDV -e 101 -c 0 -i 142 -a 0 -x {42.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 42 -d 0 -p rtProtoDV -e 101 -c 0 -i 142 -a 0 -x {42.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 42 -d 0 -p rtProtoDV -e 101 -c 0 -i 142 -a 0 -x {42.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 43 -p rtProtoDV -e 101 -c 0 -i 43 -a 0 -x {0.3 43.2 -1 ------- null}
++ -t 0.00125058848733464 -s 43 -d 0 -p rtProtoDV -e 101 -c 0 -i 143 -a 0 -x {43.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 43 -d 0 -p rtProtoDV -e 101 -c 0 -i 143 -a 0 -x {43.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 43 -d 0 -p rtProtoDV -e 101 -c 0 -i 143 -a 0 -x {43.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 44 -p rtProtoDV -e 101 -c 0 -i 44 -a 0 -x {0.3 44.2 -1 ------- null}
++ -t 0.00125058848733464 -s 44 -d 0 -p rtProtoDV -e 101 -c 0 -i 144 -a 0 -x {44.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 44 -d 0 -p rtProtoDV -e 101 -c 0 -i 144 -a 0 -x {44.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 44 -d 0 -p rtProtoDV -e 101 -c 0 -i 144 -a 0 -x {44.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 45 -p rtProtoDV -e 101 -c 0 -i 45 -a 0 -x {0.3 45.2 -1 ------- null}
++ -t 0.00125058848733464 -s 45 -d 0 -p rtProtoDV -e 101 -c 0 -i 145 -a 0 -x {45.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 45 -d 0 -p rtProtoDV -e 101 -c 0 -i 145 -a 0 -x {45.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 45 -d 0 -p rtProtoDV -e 101 -c 0 -i 145 -a 0 -x {45.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 46 -p rtProtoDV -e 101 -c 0 -i 46 -a 0 -x {0.3 46.2 -1 ------- null}
++ -t 0.00125058848733464 -s 46 -d 0 -p rtProtoDV -e 101 -c 0 -i 146 -a 0 -x {46.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 46 -d 0 -p rtProtoDV -e 101 -c 0 -i 146 -a 0 -x {46.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 46 -d 0 -p rtProtoDV -e 101 -c 0 -i 146 -a 0 -x {46.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 47 -p rtProtoDV -e 101 -c 0 -i 47 -a 0 -x {0.3 47.2 -1 ------- null}
++ -t 0.00125058848733464 -s 47 -d 0 -p rtProtoDV -e 101 -c 0 -i 147 -a 0 -x {47.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 47 -d 0 -p rtProtoDV -e 101 -c 0 -i 147 -a 0 -x {47.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 47 -d 0 -p rtProtoDV -e 101 -c 0 -i 147 -a 0 -x {47.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 48 -p rtProtoDV -e 101 -c 0 -i 48 -a 0 -x {0.3 48.2 -1 ------- null}
++ -t 0.00125058848733464 -s 48 -d 0 -p rtProtoDV -e 101 -c 0 -i 148 -a 0 -x {48.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 48 -d 0 -p rtProtoDV -e 101 -c 0 -i 148 -a 0 -x {48.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 48 -d 0 -p rtProtoDV -e 101 -c 0 -i 148 -a 0 -x {48.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 49 -p rtProtoDV -e 101 -c 0 -i 49 -a 0 -x {0.3 49.2 -1 ------- null}
++ -t 0.00125058848733464 -s 49 -d 0 -p rtProtoDV -e 101 -c 0 -i 149 -a 0 -x {49.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 49 -d 0 -p rtProtoDV -e 101 -c 0 -i 149 -a 0 -x {49.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 49 -d 0 -p rtProtoDV -e 101 -c 0 -i 149 -a 0 -x {49.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 50 -p rtProtoDV -e 101 -c 0 -i 50 -a 0 -x {0.3 50.2 -1 ------- null}
++ -t 0.00125058848733464 -s 50 -d 0 -p rtProtoDV -e 101 -c 0 -i 150 -a 0 -x {50.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 50 -d 0 -p rtProtoDV -e 101 -c 0 -i 150 -a 0 -x {50.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 50 -d 0 -p rtProtoDV -e 101 -c 0 -i 150 -a 0 -x {50.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 51 -p rtProtoDV -e 101 -c 0 -i 51 -a 0 -x {0.3 51.2 -1 ------- null}
++ -t 0.00125058848733464 -s 51 -d 0 -p rtProtoDV -e 101 -c 0 -i 151 -a 0 -x {51.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 51 -d 0 -p rtProtoDV -e 101 -c 0 -i 151 -a 0 -x {51.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 51 -d 0 -p rtProtoDV -e 101 -c 0 -i 151 -a 0 -x {51.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 52 -p rtProtoDV -e 101 -c 0 -i 52 -a 0 -x {0.3 52.2 -1 ------- null}
++ -t 0.00125058848733464 -s 52 -d 0 -p rtProtoDV -e 101 -c 0 -i 152 -a 0 -x {52.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 52 -d 0 -p rtProtoDV -e 101 -c 0 -i 152 -a 0 -x {52.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 52 -d 0 -p rtProtoDV -e 101 -c 0 -i 152 -a 0 -x {52.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 53 -p rtProtoDV -e 101 -c 0 -i 53 -a 0 -x {0.3 53.2 -1 ------- null}
++ -t 0.00125058848733464 -s 53 -d 0 -p rtProtoDV -e 101 -c 0 -i 153 -a 0 -x {53.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 53 -d 0 -p rtProtoDV -e 101 -c 0 -i 153 -a 0 -x {53.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 53 -d 0 -p rtProtoDV -e 101 -c 0 -i 153 -a 0 -x {53.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 54 -p rtProtoDV -e 101 -c 0 -i 54 -a 0 -x {0.3 54.2 -1 ------- null}
++ -t 0.00125058848733464 -s 54 -d 0 -p rtProtoDV -e 101 -c 0 -i 154 -a 0 -x {54.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 54 -d 0 -p rtProtoDV -e 101 -c 0 -i 154 -a 0 -x {54.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 54 -d 0 -p rtProtoDV -e 101 -c 0 -i 154 -a 0 -x {54.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 55 -p rtProtoDV -e 101 -c 0 -i 55 -a 0 -x {0.3 55.2 -1 ------- null}
++ -t 0.00125058848733464 -s 55 -d 0 -p rtProtoDV -e 101 -c 0 -i 155 -a 0 -x {55.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 55 -d 0 -p rtProtoDV -e 101 -c 0 -i 155 -a 0 -x {55.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 55 -d 0 -p rtProtoDV -e 101 -c 0 -i 155 -a 0 -x {55.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 56 -p rtProtoDV -e 101 -c 0 -i 56 -a 0 -x {0.3 56.2 -1 ------- null}
++ -t 0.00125058848733464 -s 56 -d 0 -p rtProtoDV -e 101 -c 0 -i 156 -a 0 -x {56.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 56 -d 0 -p rtProtoDV -e 101 -c 0 -i 156 -a 0 -x {56.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 56 -d 0 -p rtProtoDV -e 101 -c 0 -i 156 -a 0 -x {56.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 57 -p rtProtoDV -e 101 -c 0 -i 57 -a 0 -x {0.3 57.2 -1 ------- null}
++ -t 0.00125058848733464 -s 57 -d 0 -p rtProtoDV -e 101 -c 0 -i 157 -a 0 -x {57.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 57 -d 0 -p rtProtoDV -e 101 -c 0 -i 157 -a 0 -x {57.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 57 -d 0 -p rtProtoDV -e 101 -c 0 -i 157 -a 0 -x {57.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 58 -p rtProtoDV -e 101 -c 0 -i 58 -a 0 -x {0.3 58.2 -1 ------- null}
++ -t 0.00125058848733464 -s 58 -d 0 -p rtProtoDV -e 101 -c 0 -i 158 -a 0 -x {58.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 58 -d 0 -p rtProtoDV -e 101 -c 0 -i 158 -a 0 -x {58.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 58 -d 0 -p rtProtoDV -e 101 -c 0 -i 158 -a 0 -x {58.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 59 -p rtProtoDV -e 101 -c 0 -i 59 -a 0 -x {0.3 59.2 -1 ------- null}
++ -t 0.00125058848733464 -s 59 -d 0 -p rtProtoDV -e 101 -c 0 -i 159 -a 0 -x {59.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 59 -d 0 -p rtProtoDV -e 101 -c 0 -i 159 -a 0 -x {59.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 59 -d 0 -p rtProtoDV -e 101 -c 0 -i 159 -a 0 -x {59.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 60 -p rtProtoDV -e 101 -c 0 -i 60 -a 0 -x {0.3 60.2 -1 ------- null}
++ -t 0.00125058848733464 -s 60 -d 0 -p rtProtoDV -e 101 -c 0 -i 160 -a 0 -x {60.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 60 -d 0 -p rtProtoDV -e 101 -c 0 -i 160 -a 0 -x {60.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 60 -d 0 -p rtProtoDV -e 101 -c 0 -i 160 -a 0 -x {60.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 61 -p rtProtoDV -e 101 -c 0 -i 61 -a 0 -x {0.3 61.2 -1 ------- null}
++ -t 0.00125058848733464 -s 61 -d 0 -p rtProtoDV -e 101 -c 0 -i 161 -a 0 -x {61.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 61 -d 0 -p rtProtoDV -e 101 -c 0 -i 161 -a 0 -x {61.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 61 -d 0 -p rtProtoDV -e 101 -c 0 -i 161 -a 0 -x {61.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 62 -p rtProtoDV -e 101 -c 0 -i 62 -a 0 -x {0.3 62.2 -1 ------- null}
++ -t 0.00125058848733464 -s 62 -d 0 -p rtProtoDV -e 101 -c 0 -i 162 -a 0 -x {62.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 62 -d 0 -p rtProtoDV -e 101 -c 0 -i 162 -a 0 -x {62.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 62 -d 0 -p rtProtoDV -e 101 -c 0 -i 162 -a 0 -x {62.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 63 -p rtProtoDV -e 101 -c 0 -i 63 -a 0 -x {0.3 63.2 -1 ------- null}
++ -t 0.00125058848733464 -s 63 -d 0 -p rtProtoDV -e 101 -c 0 -i 163 -a 0 -x {63.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 63 -d 0 -p rtProtoDV -e 101 -c 0 -i 163 -a 0 -x {63.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 63 -d 0 -p rtProtoDV -e 101 -c 0 -i 163 -a 0 -x {63.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 64 -p rtProtoDV -e 101 -c 0 -i 64 -a 0 -x {0.3 64.2 -1 ------- null}
++ -t 0.00125058848733464 -s 64 -d 0 -p rtProtoDV -e 101 -c 0 -i 164 -a 0 -x {64.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 64 -d 0 -p rtProtoDV -e 101 -c 0 -i 164 -a 0 -x {64.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 64 -d 0 -p rtProtoDV -e 101 -c 0 -i 164 -a 0 -x {64.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 65 -p rtProtoDV -e 101 -c 0 -i 65 -a 0 -x {0.3 65.2 -1 ------- null}
++ -t 0.00125058848733464 -s 65 -d 0 -p rtProtoDV -e 101 -c 0 -i 165 -a 0 -x {65.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 65 -d 0 -p rtProtoDV -e 101 -c 0 -i 165 -a 0 -x {65.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 65 -d 0 -p rtProtoDV -e 101 -c 0 -i 165 -a 0 -x {65.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 66 -p rtProtoDV -e 101 -c 0 -i 66 -a 0 -x {0.3 66.2 -1 ------- null}
++ -t 0.00125058848733464 -s 66 -d 0 -p rtProtoDV -e 101 -c 0 -i 166 -a 0 -x {66.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 66 -d 0 -p rtProtoDV -e 101 -c 0 -i 166 -a 0 -x {66.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 66 -d 0 -p rtProtoDV -e 101 -c 0 -i 166 -a 0 -x {66.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 67 -p rtProtoDV -e 101 -c 0 -i 67 -a 0 -x {0.3 67.2 -1 ------- null}
++ -t 0.00125058848733464 -s 67 -d 0 -p rtProtoDV -e 101 -c 0 -i 167 -a 0 -x {67.2 0.3 -1 ------- null}
+- -t 0.00125058848733464 -s 67 -d 0 -p rtProtoDV -e 101 -c 0 -i 167 -a 0 -x {67.2 0.3 -1 ------- null}
+h -t 0.00125058848733464 -s 67 -d 0 -p rtProtoDV -e 101 -c 0 -i 167 -a 0 -x {67.2 0.3 -1 ------- null}
+r -t 0.00125058848733464 -s 0 -d 68 -p rtProtoDV -e 101 -c 0 -i 68 -a 0 -x {0.3 68.2 -1 ------- null}
++ -t 0.00125058848

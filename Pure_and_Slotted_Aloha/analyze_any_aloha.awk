@@ -1,5 +1,10 @@
 #!/usr/bin/awk -f
 
+#This awk script is run on a .tr file(trace file) to get the Packet Drop Rate(PDR) and throughput.
+#This script can be used to analyze any trace file whose entries contain the "cbr" protocol.
+
+#BEGIN block initialises the variables required.
+
 BEGIN {
 	received=0;
 	dropped=0;
@@ -8,14 +13,16 @@ BEGIN {
 	total_recvd_packet_size = 0;
 }
 
+#The below block iterates through the trace file line by line(entry by entry) and grabs the required information.
+
 {
 	event = $1;
 	time = $2;
 	packet_size = $6;
 	packet_type = $5;
 
-	if(packet_type=="cbr") {		#Main check.
-		if(event=="r") {					#Block only for received packets.
+	if(packet_type=="cbr") {		#Check if the protocol entry / packet type is "cbr"
+		if(event=="r") {					#Block of code only for entries whose event is 'r' / packet received.
 			received++;
 			total_recvd_packet_size += packet_size;
 
@@ -23,16 +30,18 @@ BEGIN {
 				stop_time = time;
 			}
 		}
-		else if(event=="d") {			#Block only for dropped packets.
+		else if(event=="d") {			#Block of code only for entries whose event is 'd' / dropped packets.
 			dropped++;
 		}
-		else if(event=="s" || event=="+") {		#Block only for sent packets.
+		else if(event=="s" || event=="+") {				#Block of code only for sent packets.
 			if(!start_time || time < start_time) {
 				start_time = time;
 			}
 		}
 	}
 }
+
+#The END Block prints the metrics calculated.
 
 END {
 	printf("Packets received = %d\n" , received);
