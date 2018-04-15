@@ -1,3 +1,6 @@
+#This is the simulation of a network with MAC Protocol = slotted aloha.
+
+
 set ns [new Simulator]
 
 #Tell the simulator to use dynamic routing

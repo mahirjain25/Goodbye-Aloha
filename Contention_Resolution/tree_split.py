@@ -27,7 +27,7 @@ def tree_split(arr,n):
 		for i in queue[j]:
 			new_arr[pos].append(i)
 			pos = (pos+1)%(n-1)
-			
+
 		tree_split(new_arr,n)
 
 	if len(queue)==0:
