@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import random
-
+#This is the script for simulating the Goodbye ALOHA! protocol
 
 def tree_split(arr,n):
 	mini = -1
@@ -71,11 +71,14 @@ for j in range(time_slots):
 	for i in range(no_slots):
 		rand_list[i] = []
 
+
+	#Generate random contentions for the slots available
 	for i in range(client):
 		
 		slot = random.randint(0,no_slots-1)
 		rand_list[slot].append(i)
 	L = []
+	#if there is a collision, add to CRQ. Else, add to DTQ.
 	for i in rand_list:
 		L.append(rand_list[i])
 		if len(rand_list[i])>1:
@@ -83,6 +86,8 @@ for j in range(time_slots):
 		else:
 			fifo[i] = rand_list[i]
 	lol =[]
+
+	#Run the tree splitting algorithm on items in the CRQ
 	tree_split(L , no_slots)
 	
 
