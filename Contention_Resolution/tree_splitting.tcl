@@ -40,17 +40,17 @@ set node_count [lindex $argv 0]
 set tracefile [open highdrop_aloha.tr w]
 $ns trace-all $tracefile
 
-#set namfile [open highdrop_aloha.nam w]
-#$ns namtrace-all $namfile
+set namfile [open highdrop_aloha.nam w]
+$ns namtrace-all $namfile
 
 
 
 #This is the "finish" Procedure which is executed after the simulation is done.
 proc finish { } {
-  global ns tracefile
+  global ns tracefile namfile
   $ns flush-trace
   close $tracefile
- # close $namfile
+  close $namfile
   exit 0
 }
 

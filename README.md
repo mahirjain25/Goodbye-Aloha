@@ -23,8 +23,25 @@ The **ns2** software tool is being used to implement Pure and Slotted ALOHA. **M
 ### References:
 A. Laya, C. Kalalas, F. Vazquez-Gallego, L. Alonso and J. Alonso-Zarate, "Goodbye, ALOHA!," in IEEE Access, vol. 4, pp. 2029-2044, 2016. [Click Here](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7457611)
 
-## File Structure
+## Directory and File Structure
 - Introduction.md - Description of the theoretical aspects of the project with the help of diagrams shown in the paper
 - Design.md - Designing the solution
-- Pure and Slotted Aloha - A folder with all files pertaining to pure and slotted ALOHA. It contains the .tcl, .nam, .tr and .awk scripts.
+- Pure and Slotted Aloha - A folder with all files pertaining to pure and slotted ALOHA. It contains:
+	1. pure_aloha.tcl - TCL file for pure ALOHA implementation
+	2. slotted_aloha.tcl - TCL file for slotted ALOHA implementation
+	3. pure_aloha.nam - Animation for pure ALOHA
+	4. slotted_aloha.nam - Animation for slotted ALOHA
+	5. pure_aloha.png - Screenshot of animation of pure ALOHA
+	6. slotted_aloha.png - Screenshot of animation of slotted ALOHA
+	7. pure_aloha.tr - Tracefile for pure ALOHA
+	8. slotted_aloha.tr - Tracefile for slotted ALOHA
+	9. analyze_any_aloha.awk - An awk script to calculate network metrics for either pure or slotted ALOHA.
 - Contention Resolution Implementation - A folder with all files pertaining to the new algorithm being implemented.
+	1. dq.py - Python script that implements Distributed Queuing.
+	2. resolution.py - A file that generates collisions, and prints resolved lists.
+	3. tree_split.py - A python script that performs tree splitting algorithm
+	4. tree_splitting.tcl - TCL script depicting tree splitting algorithm
+	5. highdrop_aloha.nam - Animation for higher drop ALOHA file
+	6. highdrop_aloha.tr - Tracefile for higher drop ALOHA file
+	7. analyze_any_aloha.awk - An awk script to calculate network metrics from the .nam file.
+	
