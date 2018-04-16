@@ -44,6 +44,11 @@ time_slots = int(input(""))
 print("Enter the number of 'slots':")
 no_slots = int(input(""))
 
+
+
+no_packets = 0
+packets_received = 0
+
 client_list = []
 for i in range(client):
 	client_list.append(0)
@@ -76,6 +81,7 @@ for j in range(time_slots):
 	for i in range(client):
 		
 		slot = random.randint(0,no_slots-1)
+		no_packets+=1
 		rand_list[slot].append(i)
 	L = []
 	#if there is a collision, add to CRQ. Else, add to DTQ.
@@ -95,3 +101,13 @@ for j in range(time_slots):
 
 	print("fifo: ", fifo, "contention:", contention)
 	print(lol)
+	dropped = 0
+	for i in lol:
+		for j in i:
+			if(len(j)>0):
+				dropped = dropped +1
+	packets_received -= len(lol)*dropped
+
+print("Total number of packets sent:", no_packets)
+print("Number of packets received:", packets_received+no_packets)
+print("Throughput:", float(packets_received+no_packets)/no_packets)
