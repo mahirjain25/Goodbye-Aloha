@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import random
+import math
 #This is the script for simulating the Goodbye ALOHA! protocol
 
 def tree_split(arr,n):
@@ -35,14 +36,23 @@ def tree_split(arr,n):
 		tree_split(new_arr,n)
 
 	if len(queue)==0:
-		lol.append(arr)
+		resolved_list.append(arr)
 
 print("enter the number of clients in the star ")
 client = int(input(""))
+if client<1:
+	print("Insufficient number of clients entered")
+	exit()
 print("Enter the number of time slots")
 time_slots = int(input(""))
+if(time_slots<1):
+	print("Time entered is too short to communicate")
+	exit()
 print("Enter the number of 'slots':")
 no_slots = int(input(""))
+if no_slots<=2:
+	print("Not enough slots to send packets efficiently")
+	exit()
 
 
 
@@ -91,7 +101,7 @@ for j in range(time_slots):
 			contention[i] = rand_list[i]
 		else:
 			fifo[i] = rand_list[i]
-	lol =[]
+	resolved_list =[]
 
 	#Run the tree splitting algorithm on items in the CRQ
 	tree_split(L , no_slots)
@@ -99,15 +109,21 @@ for j in range(time_slots):
 
 
 
-	print("fifo: ", fifo, "contention:", contention)
-	print(lol)
+	print("DTQ: ", fifo, "CRQ:", contention)
+	print("Resolved tree:",resolved_list)
 	dropped = 0
-	for i in lol:
+
+	#Count the number of packets dequeued from the DTQ queue to arrive at the number of packets received
+	for i in resolved_list:
 		for j in i:
 			if(len(j)>0):
 				dropped = dropped +1
-	packets_received -= len(lol)*dropped
+	#packets_received -= len(resolved_list)*math.ceil(float(client)/no_slots*2)
+	for i in fifo:
+		if(len(fifo[i])>0):
+			packets_received+=1
+	#packets_received+=len(fifo)
 
 print("Total number of packets sent:", no_packets)
-print("Number of packets received:", packets_received+no_packets)
-print("Throughput:", float(packets_received+no_packets)/no_packets)
+print("Number of packets received:", packets_received)
+print("Throughput:", float(packets_received)/no_packets)
