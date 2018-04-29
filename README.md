@@ -17,7 +17,7 @@ The vision of the Internet of Things (IoT) to interconnect and Internet-connect 
 
 ### Tools Used:
 
-The **ns2** software tool is being used to implement Pure and Slotted ALOHA. **MATLAB** is being used to implement the concept mentioned in the chosen paper.
+The **ns2** software tool is being used to implement Pure and Slotted ALOHA. **Python** is being used to implement the concept mentioned in the chosen paper.
 
 
 ### References:
